@@ -1,0 +1,68 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oswald-Bold
+FamilyName:Oswald
+StyleName:Bold
+FullName:Oswald Bold
+MenuName:Oswald
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Jmacias\Desktop\web-sites\juanmanuel\look-and-feel Folder\Document fonts\Oswald-Bold_0.ttf
+DataFormat:sfntData
+FileLength:92964
+FileModTime:1330495200
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Oswald Bold
+NameArray:0,Win,1,Oswald
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oswald-Regular
+FamilyName:Oswald
+StyleName:Regular
+FullName:Oswald Regular
+MenuName:Oswald
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Jmacias\Desktop\web-sites\juanmanuel\look-and-feel Folder\Document fonts\Oswald-Regular_0.ttf
+DataFormat:sfntData
+FileLength:92244
+FileModTime:1330495200
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Oswald Regular
+NameArray:0,Win,1,Oswald
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Medium
+FamilyName:Roboto
+StyleName:Medium
+FullName:Roboto Medium
+MenuName:Roboto Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Jmacias\Desktop\web-sites\juanmanuel\look-and-feel Folder\Document fonts\Roboto-Medium.ttf
+DataFormat:sfntData
+FileLength:160696
+FileModTime:1322594218
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Medium
+NameArray:0,Mac,4,Roboto Medium
+NameArray:0,Win,1,Roboto Lt
+NameArray:0,Win,16,Roboto
+%EndFont
+

@@ -1,0 +1,36 @@
+.contact-items {
+	background: url("../img/contact.jpg") no-repeat fixed center / cover;
+	position: relative;
+}
+
+.contact-form {
+	padding: $space-large 0 300px 0;
+	width: 50%;
+}
+
+.contact-card {
+	background-color: rgba(255, 255, 255, .5);
+	bottom: 5%;
+	left: 45%;
+	font-size: 20px;
+	font-weight: 400;
+	padding: $space-base;
+	position: absolute;
+	width: 25%;
+	
+	a {
+		border-bottom: none;
+	}
+
+	div {
+	border-bottom: 1px solid #000;		
+	}
+	
+	img {
+		width: 20%;
+		padding: $space-small $space-small 0 0;
+	}
+}
+
+
+

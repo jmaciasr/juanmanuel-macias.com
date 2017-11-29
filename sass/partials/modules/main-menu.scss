@@ -1,0 +1,64 @@
+nav {	
+	//display: none;
+    position: absolute;
+    -ms-transform: translate(-384px, 0); /* IE 9 */
+    -webkit-transform: translate(-384px, 0); /* Safari */
+    transform: translate(-384px, 0);
+    -webkit-transition: all .1s; /* Safari */
+    transition: all 1s ease-in-out;
+    width: 75%;
+
+	a {
+		border-bottom: solid 2px #fff;
+		color: #fff;
+		display: block;	
+		font-size: 24px;
+		margin-top: 10px;
+		padding-bottom: 10px;
+
+		&:hover {
+            color: $color-contrast;
+            border-bottom: solid 2px $color-contrast;            	
+		}
+	}
+}
+
+.main-menu {
+	background-color: rgba(0,0,0,.55);
+    position: relative;
+    width: 50%;
+}
+
+.main-menu__menu-icon {
+    margin: $space-out-medium;
+    width: 40px;
+}
+.main-menu__logo-close,
+.main-menu__logo-open, {
+    text-align: center;
+    
+    img {
+        width: 80%;
+    }
+}
+
+.main-menu__logo-close {
+    padding: 200px 0 300px 0;
+    transition: all 1s ease-in-out;
+}
+
+.main-menu__logo-open {
+    padding: 20px;
+}
+
+.toggleMenu {
+    -ms-transform: translate(50px, 0); /* IE 9 */
+    -webkit-transform: translate(50px, 0); /* Safari */
+    transform: translate(50px, 0);
+} 
+
+.hiddenMainLogo {
+    -ms-transform: translate(-570px, 0); /* IE 9 */
+    -webkit-transform: translate(-570px, 0); /* Safari */
+    transform: translate(-570px, 0);
+}

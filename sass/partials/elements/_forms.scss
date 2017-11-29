@@ -1,0 +1,42 @@
+textarea {
+  resize: none;
+}
+
+form {
+	padding: $space-base;
+	background-color: rgba(255, 255, 255, .5);
+}
+
+input {
+	height: 30px;
+}
+
+input,
+textarea {
+	background-color: transparent;
+	border: 1px solid #000;
+	display: block;
+	font-size: 16px;
+	margin: $space-out-small 0 $space-out-small 0;
+	width: 80%;
+}
+
+label,
+button {
+	font-size: 20px;
+	font-weight: 400;
+}
+
+button {
+	background-color: $color-base;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	font-family: $font-family-base;
+	padding: $space-small;
+	transition: background-color 1s; 
+	width: 30%;
+	&:hover {
+	background-color: $color-contrast;			
+	}
+}

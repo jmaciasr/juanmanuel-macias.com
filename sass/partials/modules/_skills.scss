@@ -1,0 +1,13 @@
+.skills-icons {
+	background: url("../img/skills.jpg") no-repeat center / cover;
+
+	div {
+		padding: $space-large 0 $space-large 0;
+		width: 50%
+	}
+	img {
+		width: 15%;
+		margin: 0 7% 5% 0;
+	}
+	
+}

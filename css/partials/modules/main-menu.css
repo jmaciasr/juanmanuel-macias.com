@@ -1,0 +1,25 @@
+nav {
+  display: none;
+}
+
+nav a {
+  display: block;
+}
+
+.main-menu {
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 50%;
+}
+
+.main-menu__menu-icon {
+  width: 40px;
+}
+
+.main-menu__logo {
+  padding: 200px 0 300px 0;
+  text-align: center;
+}
+
+.main-menu__logo img {
+  width: 80%;
+}

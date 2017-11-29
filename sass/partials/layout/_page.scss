@@ -1,0 +1,13 @@
+.l-group {
+  @include micro-clearfix;
+}
+
+.group {
+  @include micro-clearfix;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.aligment {
+	margin-left: $space-base;
+}
