@@ -1,0 +1,26 @@
+.proyect-area {
+	div {
+		display: inline-block;
+		width: 50%;
+	}
+}
+
+.proyect-content {
+	h2 {
+		color: #fff;
+		margin: 0;
+		padding-top: 0;
+	}
+}
+
+.proyect-content__title {
+	text-align: center;
+}
+
+.proyect-content__bg {
+	height: 500px;	
+}
+
+.proyect-content__bg-conver{
+	background: url("../img/bg-conver-00.png") no-repeat center / cover;
+}

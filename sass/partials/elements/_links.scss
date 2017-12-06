@@ -5,6 +5,7 @@ a {
     background-color: transparent; // 1
     border-bottom: 2px solid $color-base;
     color: $color-base;
+    font-size: 20px;
     -webkit-text-decoration-skip: objects; // 2
     -webkit-tap-highlight-color: transparent; // 3
     text-decoration: none;

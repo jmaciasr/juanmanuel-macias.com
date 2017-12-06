@@ -1,9 +1,9 @@
 nav {	
 	//display: none;
     position: absolute;
-    -ms-transform: translate(-384px, 0); /* IE 9 */
-    -webkit-transform: translate(-384px, 0); /* Safari */
-    transform: translate(-384px, 0);
+    -ms-transform: translate(-780px, 0); /* IE 9 */
+    -webkit-transform: translate(-780px, 0); /* Safari */
+    transform: translate(-780px, 0);
     -webkit-transition: all .1s; /* Safari */
     transition: all 1s ease-in-out;
     width: 75%;
@@ -23,6 +23,15 @@ nav {
 	}
 }
 
+.menu-bg--hamburger {
+    background-image: url("../img/icon-menu.png");
+    background-size: cover;
+}
+
+.menu-bg--exit {
+    background-image: url("../img/icon-exit.png");
+    background-size: cover;
+}
 .main-menu {
 	background-color: rgba(0,0,0,.55);
     position: relative;
@@ -30,7 +39,8 @@ nav {
 }
 
 .main-menu__menu-icon {
-    margin: $space-out-medium;
+    margin: 0 0 $space-out-small $space-out-medium;
+    height: 40px;
     width: 40px;
 }
 .main-menu__logo-close,
@@ -58,7 +68,7 @@ nav {
 } 
 
 .hiddenMainLogo {
-    -ms-transform: translate(-570px, 0); /* IE 9 */
-    -webkit-transform: translate(-570px, 0); /* Safari */
-    transform: translate(-570px, 0);
+    -ms-transform: translate(-900px, 0); /* IE 9 */
+    -webkit-transform: translate(-900px, 0); /* Safari */
+    transform: translate(-900px, 0);
 }
